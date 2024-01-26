@@ -1,0 +1,1 @@
+A page to practice my css skills, in particular flex. Copying the design from the Landing Page project on the Odin Project
